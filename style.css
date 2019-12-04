@@ -3,3 +3,19 @@ h1 {
     font-family: verdana;
     size: 20px;
 }
+div.img{
+    width: auto;
+    height: 100px;
+}
+.div1{
+    border: solid black 5px;
+}
+.div2{
+    border: solid red 5px;
+}
+.div3{
+    border: solid yellow 5px;
+}
+#setting{
+    padding: 10px;
+}
